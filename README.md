@@ -1,1 +1,4 @@
-Start here - http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse1
+learnprolognow.org
+==================
+
+my findings reading learnprolognow.org 
